@@ -1,6 +1,6 @@
 package JavaPackage;
 
-public class FirstJavaClass 
+public class ThirdJavaClass 
 {
 
 	public static void main(String[] args) 
